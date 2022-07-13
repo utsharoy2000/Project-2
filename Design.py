@@ -1,4 +1,4 @@
-#ninja 2 ...........
+
 import turtle 
 turtle.bgcolor("black")
 
